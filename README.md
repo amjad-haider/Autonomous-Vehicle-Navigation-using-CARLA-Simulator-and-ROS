@@ -31,8 +31,10 @@ Contributions to this project are welcome. If you find a bug or want to suggest 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-#References
+# References
 
 1.[Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+
 2.[CARLA Simulator Documentation](https://carla.readthedocs.io/en/latest/) 
+
 3.[ROS Documentation](http://wiki.ros.org/)
