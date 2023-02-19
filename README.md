@@ -15,12 +15,12 @@ This project implements an autonomous vehicle navigation system in a simulated u
 
 # Tasks in Pipeline
 
-- [] Setting up the Environment and Basic Control
-- [] Sensor Data Acquisition and Processing
-- [] Path Planning
-- [] Advanced Control
-- [] Integration and Testing
-- [] Advanced Features (Optional)
+- [ ] Setting up the Environment and Basic Control
+- [ ] Sensor Data Acquisition and Processing
+- [ ] Path Planning
+- [ ] Advanced Control
+- [ ] Integration and Testing
+- [ ] Advanced Features (Optional)
 
 # Contributing
 
