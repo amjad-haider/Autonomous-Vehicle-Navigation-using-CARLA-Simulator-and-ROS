@@ -1,5 +1,6 @@
 # Week 1 Setting up the Environment and Basic Control
 1 . Install and configure the CARLA Simulator and ROS on your computer.
+
 2 . Familiarize yourself with the CARLA Simulator and ROS environment and learn how to control the vehicle using basic commands.
 Implement basic control algorithms for the vehicle, such as a simple proportional-integral-derivative (PID) controller, to keep it moving in a straight line.
 # Week 2: Sensor Data Acquisition and Processing
