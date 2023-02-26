@@ -2,7 +2,14 @@
 
 This project implements an autonomous vehicle navigation system in a simulated urban environment using the CARLA Simulator and ROS. The system uses sensor data and control signals to enable a vehicle to navigate through traffic and reach a destination autonomously.
 
+# System Requirements
+- Windows 10 or higher
+- WSL2 with Ubuntu 20.04 LTS installed
+- NVIDIA graphics card with CUDA support (recommended)
 
+# Software Requirements
+- ROS2 Humble (installation instructions [here](https://docs.ros.org/en/humble/Installation.html))
+- CARLA 0.9.14 (installation instructions [here](https://carla.readthedocs.io/en/stable/getting_started/))
 
 
 # Requirements for the Project
