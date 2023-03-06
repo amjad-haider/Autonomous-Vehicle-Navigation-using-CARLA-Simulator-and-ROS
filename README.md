@@ -14,6 +14,7 @@ This project implements an autonomous vehicle navigation system in a simulated u
 
 
 # Requirements for the Project
+https://github.com/carla-simulator/ros-bridge
 1. [Carla Simulator](https://carla.org/) : To run this project, you will need the following software and libraries.
 2. [ROS](https://www.ros.org/): Popular open-source middleware for building robotic systems.
 3. Sensor and Control Libraries
