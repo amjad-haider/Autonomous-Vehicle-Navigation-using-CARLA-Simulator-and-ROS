@@ -8,7 +8,7 @@ This project implements an autonomous vehicle navigation system in a simulated u
 - NVIDIA graphics card with CUDA support (recommended)
 
 # Software Requirements
-- ROS2 Humble (installation instructions [here](https://docs.ros.org/en/humble/Installation.html))
+- ROS2 Foxy (installation instructions [here](https://docs.ros.org/en/humble/Installation.html))
 - CARLA 0.9.14 (installation instructions [here](https://carla.readthedocs.io/en/stable/getting_started/))
 - python 3.7
 
